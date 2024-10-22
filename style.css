@@ -284,15 +284,18 @@ footer h3{
         height: 25px;
     }
     #vec6{
-        top: 145px;
-        right: 80px;
+        top: 115px;
+        right: 195px;
     }
     #vec6:hover{
         right: 395px;
     }
     .heading{
-        font-size: 13px;
+        font-size: 11px;
         margin-right: 20px;
+    }
+    .heading h2{
+        font-size: 12px;    
     }
    
    
