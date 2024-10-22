@@ -326,4 +326,51 @@ footer h3{
    
 }
 
+@media (max-width: 450px) {
+    .top-div {
+        height: 155px;
+    }
+    .heading h4{
+        visibility: hidden;
+    }
+    .heading h2{
+        font-size: 10px;
+    }
+    .top-div  img {
+        height: 150px;
+    }
+    #vec1{
+        right: -31px
+    }
+    
+    #vec2{
+        height: 30px;
+        right: 80px;
+        top: 120px;
+    }
+    
+    #vec3{
+        right: 40px;
+        top: 90px;
+        height: 30px
+    }
+     #vec4{
+        right: 255px;
+        top: 20px;
+        width: 30px;
+        height: 50px;
+     }
+    #vec5{
+        right: 195px;
+        height: 25px;
+    }
+    #vec6{
+        top: 115px;
+        right: 195px;
+    }
+    #side-vector1{
+        top: 40px;
+    }
+}
+
 
